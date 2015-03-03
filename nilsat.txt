@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<webtvs>
+<webtv title="----- Jamal (V2-2015)-----" urlkey="0" url="" description="" type="0" group="" iconsrc="" />
+<webtv title="------------------ Nilsat -----------------" urlkey="0" url="" description="" type="0" group="" iconsrc="" />
+<webtv title="OSN" urlkey="0" url="http://37.59.51.173:8085/osn/mpegts?u=Jamal" description="" iconsrc="" type="0" />
+<webtv title="OSN2" urlkey="0" url="http://37.59.51.173:8085/osn2/mpegts?u=Jamal" description="" iconsrc="" type="0" />
+<webtv title="OSN Comedie" urlkey="0" url="http://37.59.51.173:8085/oSN_COMEDY/mpegts?u=Jamal" description="" iconsrc="" type="0" /> 
+<webtv title="OSN Drama" urlkey="0" url="http://37.59.51.173:8085/OSNDRAMA/mpegts?u=Jamal" description="" iconsrc="" type="0" /> 
+<webtv title="OSN MOVIES1" urlkey="0" url="http://37.59.51.173:8085/OSN_MOVIES/mpegts?u=Jamal" description="" iconsrc="" type="0" />
+<webtv title="OSN MOVIES2" urlkey="0" url="http://37.59.51.173:8085/OSN_MOVIES+2/mpegts?u=Jamal" description="" iconsrc="" type="0" />
+<webtv title="OSN YAHALA" urlkey="0" url="http://37.59.51.173:8085/OSNYAHALA/mpegts?u=Jamal" description="" iconsrc="" type="0" />
+<webtv title="OSN YAHALA2" urlkey="0" url="http://37.59.51.173:8085/OSNYAHALA2/mpegts?u=Jamal" description="" iconsrc="" type="0" /> 
+<webtv title="OSN YAHALA SHABAB" urlkey="0" url="http://37.59.51.173:8085/OSN_YAHALA_SHABAB/mpegts?u=Jamal" description="" iconsrc="" type="0" /> 
+<webtv title="OSN YAHAlA DRAMA" urlkey="0" url="http://37.59.51.173:8085/OSN_YAHAlA_DRAMA/mpegts?u=Jamal" description="" iconsrc="" type="0" /> 
+<webtv title="OSN FIRST MORE" urlkey="0" url="http://37.59.51.173:8085/OSN_FIRsT_MORE/mpegts?u=Jamal" description="" iconsrc="" type="0" /> 
+<webtv title="ART AFLAM 2" urlkey="0" url="rtmp://162.212.176.107:1935/art_aflam_2/globaltv-art_aflam_2.stream" description="" iconsrc="" type="0" />                   
+<webtv title="ART HEKAIAT1" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx209.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="ART HEKAIAT2" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx62.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="NAT_Geo" urlkey="0" url="rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream" description="" iconsrc="" type="0" />            
+<webtv title="MEDI1 MAROC" urlkey="0" url="http://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream/chunklist_w1450971494.m3u8" description="" iconsrc="" type="0" />
+<webtv title="2m" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx127.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="ALMAGRIBIA" urlkey="0" url="http://ca-edge-2.cdn2.streamago.tv:80/streamagoedge/1922/815/playlist.m3u8" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="Star Cinema" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx128.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="Rotana Cinema" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx8.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="MBC1" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx53.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="MBC2" urlkey="0" url="rtmp://live-f01.vustream.net/live/livestream" description="" iconsrc="" type="0" />
+<webtv title="MBC3" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx47.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="MBC MAX" urlkey="0" url=" http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8" description="" iconsrc="" type="0" />
+<webtv title="MBC ACTION" urlkey="0" url="http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8" description="" iconsrc="" type="0" />
+<webtv title="MBC BOLLYWOOD" urlkey="0" url="http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8" description="" iconsrc="" type="0" />
+<webtv title="MBC Drama" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx50.stream/playlist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="Alhayat 1" urlkey="0" url="rtmp://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream" description="" iconsrc="" type="0" />
+<webtv title="Alhayat cinema" urlkey="0" url="rtmp://162.212.176.107:1935/alhayat_cinema/globaltv-alhayat_cinema.stream" description="" iconsrc="" type="0" />
+<webtv title="FOX ARABIC" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx227.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="FOX MOVIES ARABIC" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx147.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="MOGA COMEDY" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx54.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="MELODY" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx129.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="AL Aoula" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx58.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="AlTalita" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx172.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="NAHAR TV" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx14.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="Dubai" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx92.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="Dubai One" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx56.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="Sama Dubai" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx91.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="Abu Dhabi Al Aoula" urlkey="0" url="http://50.7.69.138:1935/live-edge1/6rx115.stream/chunklist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="Abu Dhabi drama" urlkey="0" url="rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream" description="" iconsrc="" type="0" />
+<webtv title="Cairo cinema" urlkey="0" url="rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream" description="" iconsrc="" type="0" />
+<webtv title="Cairo Drama" urlkey="0" url="rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream" description="" iconsrc="" type="0" />
+<webtv title="LBC EUROPE" urlkey="0" url="rtmp://web.iptv-planet.com:1936/live2/lbc" description="" iconsrc="" type="0" />
+<webtv title="BARAEM" urlkey="0" url="rtmp://AgendaStreamer2.qna.org.qa/brm/brm" description="" iconsrc="" type="0" />
+<webtv title="DUBAI SPORT3" urlkey="0" url="http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3hls.smil/chunklist_b270960.m3u8" description="" iconsrc="" type="0" />
+<webtv title="BUBAI SPORT1" urlkey="0" url="http://live300.edge.filmon.com/live/79.high.stream/chunklist_w760418791.m3u8?" description="" iconsrc="" type="0" />
+<webtv title="ALNAHAR-TV" urlkey="0" url="http://50.7.180.18:1935/elnahar_tv/nahar_tvprofile2.stream/chunklist_w169474923.m3u8" description="" iconsrc="" type="0" />
+<webtv title="ALNAHAR-YOUM" urlkey="0" url="http://50.7.180.18:1935/elnahar_tv/nahar_youmprofile2.stream/chunklist_w1187556776.m3u8" description="" iconsrc="" type="0" />
+<webtv title="ALNAHAR-DRAMA" urlkey="0" url="http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/chunklist_w427656133.m3u8" description="" iconsrc="" type="0" />
+<webtv title="ALNAHAR-SPORT" urlkey="0" url="http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w1226827939.m3u8" description="" iconsrc="" type="0" />
+<webtv title="Alaraby" urlkey="0" url="http://94.127.209.149:8080/Alaraby/Alaraby650/index.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Elsharq" urlkey="0" url="http://tvlive.web.tv.streamprovider.net/akamairecordrtmp/f2d0f879a3a93c43b5a6e05b2510fe24_liveRecord_0_0/playlist.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Al Hiwar" urlkey="0" url="http://46.28.50.198:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="AlJameela" urlkey="0" url="http://de.live.net.sa:1935/live/alj/playlist.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Misr Alaan" urlkey="0" url="http://wowzacontrol.com:1935/8028/8028/chunklist_w225639380.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Al Baghdadia" urlkey="0" url="http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/master.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Al Baghdadia 2" urlkey="0" url="http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Al Manar" urlkey="0" url="http://38.96.148.199:1935/liveedge1/livestream_720p/playlist.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="alahad" urlkey="0" url="http://38.96.175.119:1935/alahadtv/maramhost1/playlist.m3u8?DVR" description="" iconsrc="" type="0" />  
+<webtv title="Syria Aloula" urlkey="0" url="http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Syria Drama" urlkey="0" url="http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Syria" urlkey="0" url="http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Syria Nour" urlkey="0" url="http://82.137.248.21:1935/Nour/NourLive3/playlist.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Syria Talaqie" urlkey="0" url="http://82.137.248.16:1935/Talaqie/TalaqieLive1/playlist.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Syria Al Ikhbaria" urlkey="0" url="http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="alalamia" urlkey="0" url="rtmp://ns8.indexforce.com/alalamia/alalamia" description="" iconsrc="" type="0" /> 
+<webtv title="OTV Lebanon" urlkey="0" url="http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Aljadeed" urlkey="0" url="http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="Echorouk TV" urlkey="0" url="http://162.212.176.107:1935/echorouk_tv/globaltv-echorouk_tv.stream/gmswf.m3u8" description="" iconsrc="" type="0" /> 
+<webtv title="LBC" urlkey="0" url="rtmp://162.212.176.107/lbc_europe//globaltv-lbc_europe.stream" description="" iconsrc="" type="0" /> 
+<webtv title="NBN" urlkey="0" url="rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p" description="" iconsrc="" type="0" /> 
+<webtv title="cna" urlkey="0" url="rtmp://str81.creacast.com:80/cna/live.sdp" description="" iconsrc="" type="0" /> 
+<webtv title="ALJAZEERA NEWS-HD" urlkey="0" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="ALJAZEERA MUBACHER MISR" urlkey="0" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_misr_high" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="ALJAZEERA MUBACHER" urlkey="0" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?v=hghpl]/aljazeera_mubasher2_high" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="ALJAZEERA DOC" urlkey="0" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_doc_high" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="ALHURRA" urlkey="0" url="rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15" description="" iconsrc="" type="0" />
+<webtv title="ALMAYADEEN S2" urlkey="0" url="rtmp://almayadeen.rtsp.fms-01.visionip.tv/live/almayadeentv-almayadeen-live-16x9-SDq" description="" iconsrc="" type="0" />
+<webtv title="BBC ARABIC" urlkey="0" url="http://media10.lsops.net/live/bbcarab_ar_high.sdp/playlist.m3u8" description="" iconsrc="" type="0" />
+<webtv title="SKYNEWS ARABIC" urlkey="0" url="rtmp://llnwvps231.fc.llnwd.net:1935/llnwvps231/_definst_/eND-IS0mT2csspFA-2vGVs_PpXBJfdbQZ8v-XYOmlvQ4Y_854_480_736" description="" iconsrc="" type="0" />
+<webtv title="Aljazeera Mubasher Misr" urlkey="0" url="rtmp://www.teledunet.com:1935/teledunet/aljazeera_live_misr" description="" iconsrc="" type="0" />
+<webtv title="Aljazeera Mubasher" urlkey="0" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_mubasher_1" description="" iconsrc="" type="0" />
+<webtv title="Aljazeera document" urlkey="0" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_doc_high" description="" iconsrc="" type="0" />
+<webtv title="BBC ARABIC" urlkey="0" url="rtmp://cp91525.live.edgefcs.net:1935/live/atv_live_mbr_3@6556" description="" iconsrc="" type="0" />
+<webtv title="ALHIWAR" urlkey="0" url="rtmpt://209.236.66.43:80/livepkgr/livestream" description="" iconsrc="" type="0" />
+<webtv title="Aljazeera News Arabic" urlkey="0" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="Aljazeera Mubasher" urlkey="0" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_mubasher_1" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="Aljazeera document" urlkey="0" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_doc_high" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="BAHRAIN-TV" urlkey="0" url="rtmp://155.obj.netromedia.net/alayam/alayam" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="BAHRAIN-SPORTS" urlkey="0" url="rtmp://alayam.netromedia.net/btv3/btv3" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="QATAR-TV" urlkey="0" url="http://78.100.44.238/live-qtv/qtv/playlist.m3u8" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="ECHOUROUK TV-ALGERIA-S1" urlkey="0" url="rtmp://178.33.233.142/live/EchoroukTV" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="ANNAHAR TV-ALGERIA-S1" urlkey="0" url="rtmp://live.ennahartv.net:1935/live/EnnaharTV" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="ANNAHAR TV-ALGERIA-S2" urlkey="0" url="http://live.ennahartv.net:1935/live/EnnaharTV/playlist.m3u8" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="ECHOUROUKTV-ALGERIE" urlkey="0" url="http://cdn.live.echoroukonline.com:80/live/EchoroukTV/playlist.m3u8" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="ALFALASTINIAH-TV" urlkey="0" url="rtmp://46.43.64.166:1935/flv/flv" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="PALESTINE-TV" urlkey="0" url="rtmp://217.66.226.36:1935/PBC/PBC" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="MBC4" urlkey="0" url="http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel02/_definst_/live/stream1.m3u8" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="NBN LEBANON" urlkey="0" url="rtmp://lived.nbn.com.lb/nbn?hghpl]=keylive197-27-55-262013-12-16-16-25-08/mpegts.stream" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="DUBAITV-S2" urlkey="0" url="rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="ALMAJD KURAN TV" urlkey="0" url="rtmp://ib12.islambox.tv/live/almajdhq160k.stream?key=EBD060E6742AAB057C23B67C4E71836D0A92F900ABE0F38B19B6A34DD4758E0C" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="Nile family" urlkey="0" url="rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily/livestream" description="" iconsrc="" iconsrc_b="" group="0" type="0" />
+<webtv title="BARAEM" urlkey="0" url="rtmp://AgendaStreamer2.qna.org.qa/brm/brm" description="" iconsrc="" type="0" />
+
+<webtv title="-------------------- END --------------------" urlkey="0" url="" description="" iconsrc="" type="0" />
+</webtvs>
